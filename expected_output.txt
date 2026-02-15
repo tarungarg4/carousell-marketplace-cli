@@ -1,0 +1,20 @@
+Success
+100001
+Phone model 8|Black color, brand new|1000|2019-02-22 12:34:56|Electronics|user1
+100002
+Success
+Error - user already existing
+100003
+T-shirt|White color|20|2019-02-22 12:34:58|Sports|user2
+Error - category not found
+T-shirt|White color|20|2019-02-22 12:34:58|Sports|user2
+Black shoes|Training shoes|100|2019-02-22 12:34:57|Sports|user1
+Black shoes|Training shoes|100|2019-02-22 12:34:57|Sports|user1
+T-shirt|White color|20|2019-02-22 12:34:58|Sports|user2
+Sports
+Error - listing owner mismatch
+Success
+Sports
+Success
+Electronics
+Error - unknown user
